@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T16:36:31.000Z",
+  "generatedAt": "2026-07-22T16:37:02.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -348,8 +348,16 @@
               "blackUser": "lamelo_balllll",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/171899805080",
+                  "endTime": 1784687059,
+                  "date": "2026-07-22T02:24:19.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "bigbadbode",
+                  "actualBlack": "lamelo_balllll"
                 },
                 "blitz": {
                   "status": "pending",
@@ -403,8 +411,16 @@
               "blackUser": "bigbadbode",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "sbluestone99",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/171897440818",
+                  "endTime": 1784681093,
+                  "date": "2026-07-22T00:44:53.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "sbluestone99",
+                  "actualBlack": "bigbadbode"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1174,6 +1190,36 @@
   "standings": {
     "rapid": [
       {
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 1,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "draws": 0,
+        "winPct": 50
+      },
+      {
+        "name": "Sam",
+        "username": "sbluestone99",
+        "points": 1,
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "winPct": 100
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
+        "points": 0,
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "winPct": 0
+      },
+      {
         "name": "Ben",
         "username": "bigb1201",
         "points": 0,
@@ -1194,16 +1240,6 @@
         "winPct": 0
       },
       {
-        "name": "Bode",
-        "username": "bigbadbode",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
         "name": "Jack",
         "username": "jackyoxsimer",
         "points": 0,
@@ -1216,26 +1252,6 @@
       {
         "name": "Pole",
         "username": "colemartin99",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Sam",
-        "username": "sbluestone99",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Tom",
-        "username": "lamelo_balllll",
         "points": 0,
         "games": 0,
         "wins": 0,
@@ -1461,6 +1477,5 @@
       }
     ]
   },
-  "unavailable": [],
-  "note": "Placeholder — the update-and-deploy Action populates real results."
+  "unavailable": []
 }
