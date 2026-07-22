@@ -1,1515 +1,1488 @@
 {
-  "generatedAt": null,
-  "players": [
+  "generatedAt": "2026-07-22T16:30:12.000Z",
+  "league": {
+    "name": "Chess League — Season 1",
+    "timezone": "America/Los_Angeles",
+    "timeControls": [
+      "rapid",
+      "blitz",
+      "bullet",
+      "daily"
+    ],
+    "defaultTimeControl": "rapid",
+    "players": [
+      {
+        "name": "Ben",
+        "username": "bigb1201"
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll"
+      },
+      {
+        "name": "Pole",
+        "username": "colemartin99"
+      },
+      {
+        "name": "Jack",
+        "username": "jackyoxsimer"
+      },
+      {
+        "name": "Bode",
+        "username": "bigbadbode"
+      },
+      {
+        "name": "Blake",
+        "username": "blakekirchner"
+      },
+      {
+        "name": "Sam",
+        "username": "sbluestone99"
+      }
+    ]
+  },
+  "weeks": [
     {
-      "username": "bigb1201",
-      "display": "BigB1201"
+      "week": 1,
+      "start": "2026-07-20",
+      "end": "2026-07-26",
+      "startEpoch": 1784530800,
+      "endEpoch": 1785135600,
+      "isCurrent": true,
+      "windowClosed": false,
+      "rounds": [
+        {
+          "round": 1,
+          "bye": "Pole",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Ben",
+              "black": "Tom",
+              "whiteUser": "bigb1201",
+              "blackUser": "lamelo_balllll",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Jack",
+              "black": "Bode",
+              "whiteUser": "jackyoxsimer",
+              "blackUser": "bigbadbode",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Blake",
+              "black": "Sam",
+              "whiteUser": "blakekirchner",
+              "blackUser": "sbluestone99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "bye": "Jack",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Tom",
+              "black": "Pole",
+              "whiteUser": "lamelo_balllll",
+              "blackUser": "colemartin99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Sam",
+              "black": "Ben",
+              "whiteUser": "sbluestone99",
+              "blackUser": "bigb1201",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Bode",
+              "black": "Blake",
+              "whiteUser": "bigbadbode",
+              "blackUser": "blakekirchner",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "bye": "Blake",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Pole",
+              "black": "Jack",
+              "whiteUser": "colemartin99",
+              "blackUser": "jackyoxsimer",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Tom",
+              "black": "Sam",
+              "whiteUser": "lamelo_balllll",
+              "blackUser": "sbluestone99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Ben",
+              "black": "Bode",
+              "whiteUser": "bigb1201",
+              "blackUser": "bigbadbode",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "bye": "Ben",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Sam",
+              "black": "Pole",
+              "whiteUser": "sbluestone99",
+              "blackUser": "colemartin99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Blake",
+              "black": "Jack",
+              "whiteUser": "blakekirchner",
+              "blackUser": "jackyoxsimer",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Bode",
+              "black": "Tom",
+              "whiteUser": "bigbadbode",
+              "blackUser": "lamelo_balllll",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "username": "bigbadbode",
-      "display": "BigBadBode"
+      "week": 2,
+      "start": "2026-07-27",
+      "end": "2026-08-02",
+      "startEpoch": 1785135600,
+      "endEpoch": 1785740400,
+      "isCurrent": false,
+      "windowClosed": false,
+      "rounds": [
+        {
+          "round": 5,
+          "bye": "Tom",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Pole",
+              "black": "Blake",
+              "whiteUser": "colemartin99",
+              "blackUser": "blakekirchner",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Sam",
+              "black": "Bode",
+              "whiteUser": "sbluestone99",
+              "blackUser": "bigbadbode",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Jack",
+              "black": "Ben",
+              "whiteUser": "jackyoxsimer",
+              "blackUser": "bigb1201",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "bye": "Sam",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Bode",
+              "black": "Pole",
+              "whiteUser": "bigbadbode",
+              "blackUser": "colemartin99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Ben",
+              "black": "Blake",
+              "whiteUser": "bigb1201",
+              "blackUser": "blakekirchner",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Tom",
+              "black": "Jack",
+              "whiteUser": "lamelo_balllll",
+              "blackUser": "jackyoxsimer",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "bye": "Bode",
+          "half_end": true,
+          "matchups": [
+            {
+              "white": "Pole",
+              "black": "Ben",
+              "whiteUser": "colemartin99",
+              "blackUser": "bigb1201",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Blake",
+              "black": "Tom",
+              "whiteUser": "blakekirchner",
+              "blackUser": "lamelo_balllll",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Jack",
+              "black": "Sam",
+              "whiteUser": "jackyoxsimer",
+              "blackUser": "sbluestone99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 8,
+          "bye": "Pole",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Tom",
+              "black": "Ben",
+              "whiteUser": "lamelo_balllll",
+              "blackUser": "bigb1201",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Bode",
+              "black": "Jack",
+              "whiteUser": "bigbadbode",
+              "blackUser": "jackyoxsimer",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Sam",
+              "black": "Blake",
+              "whiteUser": "sbluestone99",
+              "blackUser": "blakekirchner",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "username": "blakekirchner",
-      "display": "blakekirchner"
+      "week": 3,
+      "start": "2026-08-03",
+      "end": "2026-08-09",
+      "startEpoch": 1785740400,
+      "endEpoch": 1786345200,
+      "isCurrent": false,
+      "windowClosed": false,
+      "rounds": [
+        {
+          "round": 9,
+          "bye": "Jack",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Pole",
+              "black": "Tom",
+              "whiteUser": "colemartin99",
+              "blackUser": "lamelo_balllll",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Ben",
+              "black": "Sam",
+              "whiteUser": "bigb1201",
+              "blackUser": "sbluestone99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Blake",
+              "black": "Bode",
+              "whiteUser": "blakekirchner",
+              "blackUser": "bigbadbode",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 10,
+          "bye": "Blake",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Jack",
+              "black": "Pole",
+              "whiteUser": "jackyoxsimer",
+              "blackUser": "colemartin99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Sam",
+              "black": "Tom",
+              "whiteUser": "sbluestone99",
+              "blackUser": "lamelo_balllll",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Bode",
+              "black": "Ben",
+              "whiteUser": "bigbadbode",
+              "blackUser": "bigb1201",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 11,
+          "bye": "Ben",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Pole",
+              "black": "Sam",
+              "whiteUser": "colemartin99",
+              "blackUser": "sbluestone99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Jack",
+              "black": "Blake",
+              "whiteUser": "jackyoxsimer",
+              "blackUser": "blakekirchner",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Tom",
+              "black": "Bode",
+              "whiteUser": "lamelo_balllll",
+              "blackUser": "bigbadbode",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 12,
+          "bye": "Tom",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Blake",
+              "black": "Pole",
+              "whiteUser": "blakekirchner",
+              "blackUser": "colemartin99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Bode",
+              "black": "Sam",
+              "whiteUser": "bigbadbode",
+              "blackUser": "sbluestone99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Ben",
+              "black": "Jack",
+              "whiteUser": "bigb1201",
+              "blackUser": "jackyoxsimer",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        }
+      ]
     },
     {
-      "username": "colemartin99",
-      "display": "colemartin99"
-    },
-    {
-      "username": "jackyoxsimer",
-      "display": "jackyoxsimer"
-    },
-    {
-      "username": "lamelo_balllll",
-      "display": "LAMELO_BALLLLL"
-    },
-    {
-      "username": "sbluestone99",
-      "display": "sbluestone99"
+      "week": 4,
+      "start": "2026-08-10",
+      "end": "2026-08-16",
+      "startEpoch": 1786345200,
+      "endEpoch": 1786950000,
+      "isCurrent": false,
+      "windowClosed": false,
+      "rounds": [
+        {
+          "round": 13,
+          "bye": "Sam",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Pole",
+              "black": "Bode",
+              "whiteUser": "colemartin99",
+              "blackUser": "bigbadbode",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Blake",
+              "black": "Ben",
+              "whiteUser": "blakekirchner",
+              "blackUser": "bigb1201",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Jack",
+              "black": "Tom",
+              "whiteUser": "jackyoxsimer",
+              "blackUser": "lamelo_balllll",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        },
+        {
+          "round": 14,
+          "bye": "Bode",
+          "half_end": false,
+          "matchups": [
+            {
+              "white": "Ben",
+              "black": "Pole",
+              "whiteUser": "bigb1201",
+              "blackUser": "colemartin99",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Tom",
+              "black": "Blake",
+              "whiteUser": "lamelo_balllll",
+              "blackUser": "blakekirchner",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            },
+            {
+              "white": "Sam",
+              "black": "Jack",
+              "whiteUser": "sbluestone99",
+              "blackUser": "jackyoxsimer",
+              "results": {
+                "rapid": {
+                  "status": "pending",
+                  "score": null
+                },
+                "blitz": {
+                  "status": "pending",
+                  "score": null
+                },
+                "bullet": {
+                  "status": "pending",
+                  "score": null
+                },
+                "daily": {
+                  "status": "pending",
+                  "score": null
+                }
+              }
+            }
+          ]
+        }
+      ]
     }
   ],
-  "timeClasses": [
-    "bullet",
-    "blitz",
-    "rapid",
-    "daily"
-  ],
-  "buckets": [
-    "all",
-    "bullet",
-    "blitz",
-    "rapid",
-    "daily"
-  ],
   "standings": {
-    "all": [
+    "rapid": [
       {
+        "name": "Ben",
         "username": "bigb1201",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
+        "name": "Blake",
         "username": "blakekirchner",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "colemartin99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "jackyoxsimer",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "lamelo_balllll",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "sbluestone99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      }
-    ],
-    "bullet": [
-      {
-        "username": "bigb1201",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
+        "name": "Bode",
         "username": "bigbadbode",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "blakekirchner",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "colemartin99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
+        "name": "Jack",
         "username": "jackyoxsimer",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "lamelo_balllll",
+        "name": "Pole",
+        "username": "colemartin99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Sam",
         "username": "sbluestone99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
+        "winPct": 0
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
         "points": 0,
+        "games": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
         "winPct": 0
       }
     ],
     "blitz": [
       {
+        "name": "Ben",
         "username": "bigb1201",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
+        "name": "Blake",
         "username": "blakekirchner",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "colemartin99",
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Jack",
         "username": "jackyoxsimer",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "lamelo_balllll",
+        "name": "Pole",
+        "username": "colemartin99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Sam",
         "username": "sbluestone99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
+        "winPct": 0
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
         "points": 0,
+        "games": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
         "winPct": 0
       }
     ],
-    "rapid": [
+    "bullet": [
       {
+        "name": "Ben",
         "username": "bigb1201",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
+        "name": "Blake",
         "username": "blakekirchner",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "colemartin99",
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Jack",
         "username": "jackyoxsimer",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "lamelo_balllll",
+        "name": "Pole",
+        "username": "colemartin99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Sam",
         "username": "sbluestone99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
+        "winPct": 0
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
         "points": 0,
+        "games": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
         "winPct": 0
       }
     ],
     "daily": [
       {
+        "name": "Ben",
         "username": "bigb1201",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
+        "name": "Blake",
         "username": "blakekirchner",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "colemartin99",
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Jack",
         "username": "jackyoxsimer",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
-        "username": "lamelo_balllll",
+        "name": "Pole",
+        "username": "colemartin99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
         "winPct": 0
       },
       {
+        "name": "Sam",
         "username": "sbluestone99",
+        "points": 0,
+        "games": 0,
         "wins": 0,
         "losses": 0,
         "draws": 0,
-        "games": 0,
+        "winPct": 0
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
         "points": 0,
+        "games": 0,
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
         "winPct": 0
       }
     ]
   },
-  "headToHead": {
-    "bigb1201|bigbadbode": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigb1201|blakekirchner": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigb1201|colemartin99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigb1201|jackyoxsimer": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigb1201|lamelo_balllll": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigb1201|sbluestone99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigbadbode|bigb1201": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigbadbode|blakekirchner": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigbadbode|colemartin99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigbadbode|jackyoxsimer": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigbadbode|lamelo_balllll": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "bigbadbode|sbluestone99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "blakekirchner|bigb1201": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "blakekirchner|bigbadbode": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "blakekirchner|colemartin99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "blakekirchner|jackyoxsimer": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "blakekirchner|lamelo_balllll": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "blakekirchner|sbluestone99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "colemartin99|bigb1201": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "colemartin99|bigbadbode": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "colemartin99|blakekirchner": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "colemartin99|jackyoxsimer": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "colemartin99|lamelo_balllll": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "colemartin99|sbluestone99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "jackyoxsimer|bigb1201": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "jackyoxsimer|bigbadbode": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "jackyoxsimer|blakekirchner": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "jackyoxsimer|colemartin99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "jackyoxsimer|lamelo_balllll": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "jackyoxsimer|sbluestone99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "lamelo_balllll|bigb1201": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "lamelo_balllll|bigbadbode": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "lamelo_balllll|blakekirchner": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "lamelo_balllll|colemartin99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "lamelo_balllll|jackyoxsimer": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "lamelo_balllll|sbluestone99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "sbluestone99|bigb1201": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "sbluestone99|bigbadbode": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "sbluestone99|blakekirchner": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "sbluestone99|colemartin99": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "sbluestone99|jackyoxsimer": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    },
-    "sbluestone99|lamelo_balllll": {
-      "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "bullet": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      },
-      "daily": {
-        "w": 0,
-        "l": 0,
-        "d": 0
-      }
-    }
-  },
-  "games": [],
   "unavailable": [],
-  "totals": {
-    "leagueGames": 0
-  },
-  "note": "Placeholder — no data yet. Run the update-results GitHub Action to populate."
+  "note": "Placeholder — no games fetched yet. The update-and-deploy Action populates real results."
 }

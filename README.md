@@ -1,59 +1,89 @@
 # Chess League ♞
 
-A self-updating head-to-head tracker for a fixed group of chess.com players.
-It pulls each member's games from the chess.com public API, keeps only games
-played **between two league members**, and shows a standings table, a
-head-to-head matrix, and a filterable game log — broken out by time control
-(bullet / blitz / rapid / daily).
+A self-updating tracker for a **scheduled round-robin chess league** on chess.com.
+You define the players and a weekly matchup schedule; the tracker finds each
+matchup's game on chess.com and builds live **standings** + a **week-by-week
+schedule/results** page.
 
-The site is fully static. A scheduled GitHub Action does the fetching
-server-side, caches results in the repo, and commits them; GitHub Pages then
-serves the page. Zero cost, zero server.
+- Each scheduled matchup counts the **first game** the two players play against
+  each other **inside that week's window** (weeks run in the league timezone).
+- Results are precomputed for every time control, so the page's **Rapid / Blitz /
+  Bullet / Daily** switch is instant. The default (e.g. Rapid) is set in config.
+- **Standings** rank by total game points (**win 1 · draw ½ · loss 0**).
+
+The site is fully static. A scheduled GitHub Action fetches server-side, caches
+results in the repo, and deploys to GitHub Pages. Zero cost, zero server.
 
 ## Live site
 
-`https://bp1661.github.io/chess-league` (after Pages is enabled — see below).
+`https://bp1661.github.io/Chess-League/`
 
-## How it works
+## Repo layout
 
 ```
-league.json                        # the list of players — edit this to add/remove
-scripts/fetch-results.js           # fetch + filter + aggregate → data/results.json
-data/results.json                  # generated output the page reads
-data/cache/<user>_<YYYY>_<MM>.json # cached monthly archives (closed months fetched once)
-index.html + assets/               # the static page
+league.json               # players + weekly schedule + settings (edit this)
+scripts/fetch-results.js  # fetch + resolve matchups + standings → data/results.json
+scripts/make-schedule.js  # round-robin schedule generator for future leagues
+scripts/test-logic.js     # offline logic tests (npm test)
+data/results.json         # generated output the page reads
+data/cache/               # cached monthly archives (closed months fetched once)
+index.html + assets/      # the static page
 .github/workflows/update-results.yml
 ```
 
-1. For each player, list their monthly archives, then fetch each month
-   (past months are read from `data/cache/` and never refetched; only the
-   current month is re-pulled).
-2. Keep a game only if **both** players are in the league; dedupe by game URL.
-3. Aggregate into per-pair records, standings (points = win 1 / draw ½), and a
-   game log — each split per time class plus a combined total.
-4. Write `data/results.json`; the page renders it.
+## Configuring the league — `league.json`
 
-Private/unavailable profiles are skipped gracefully (flagged with ⚠ on the
-page) instead of failing the whole run.
-
-## Adding or removing a player
-
-Edit `league.json` and commit:
-
-```json
+```jsonc
 {
-  "players": ["LAMELO_BALLLLL", "colemartin99", "..."],
-  "timeClasses": ["bullet", "blitz", "rapid", "daily"]
+  "name": "Chess League — Season 1",
+  "timezone": "America/Los_Angeles",   // week windows use this zone
+  "defaultTimeControl": "rapid",       // which time control the page shows first
+  "timeControls": ["rapid", "blitz", "bullet", "daily"],
+  "weekStart": "2026-07-20",           // Week 1's Monday (PT). Weeks derive from this.
+  "players": [
+    { "name": "Ben", "username": "bigb1201" },   // display name → chess.com handle
+    { "name": "Tom", "username": "lamelo_balllll" }
+    // ...
+  ],
+  "weeks": [
+    {
+      "week": 1,
+      "rounds": [
+        { "round": 1, "bye": "Pole",
+          "matchups": [["Ben", "Tom"], ["Jack", "Bode"], ["Blake", "Sam"]] }
+        // matchups are [white, black] display names
+      ]
+    }
+    // ...
+  ]
 }
 ```
 
-Usernames are case-insensitive. The next Action run picks up the change.
+- **Each week is 7 days** starting from `weekStart` (Mon–Sun). Change `weekStart`
+  if the season began on a different date — every week shifts with it.
+- **Matchups** are `[whiteName, blackName]`. Scoring ignores who actually had
+  which color; the schedule's color is just for display orientation of the score
+  (`1–0` = the scheduled white player won).
+- Add/remove a player = edit `players` and the schedule, then commit.
+
+### Generating a schedule for a future league
+
+```bash
+node scripts/make-schedule.js --players Ann,Bob,Cy,Deb,Eve --legs 2 --rounds-per-week 4
+```
+
+Prints a ready-to-paste `league.json` stub (single or double round-robin, one bye
+per round for odd player counts). Fill in each player's chess.com username and set
+`weekStart`.
 
 ## Refreshing the data
 
 - **Automatic:** every 6 hours (cron in the workflow).
 - **Manual:** GitHub → **Actions** → **update-and-deploy** → **Run workflow**
   (the "⟳ Refresh now" link on the page points here).
+
+Only months that overlap the season are fetched, and closed months are cached, so
+reruns are fast and easy on the API.
 
 ## One-time setup
 
@@ -62,11 +92,10 @@ Usernames are case-insensitive. The next Action run picks up the change.
 3. **Settings → Actions → General → Workflow permissions** → *Read and write
    permissions* (so the Action can commit the cached data back).
 4. **Actions → update-and-deploy → Run workflow** to fetch data and deploy.
-   (A push to `main` also triggers it automatically.)
 
 ## Running locally
 
-No dependencies (uses Node ≥ 20's built-in `fetch`).
+No dependencies (Node ≥ 20 built-in `fetch`).
 
 ```bash
 node scripts/fetch-results.js   # fetch + build data/results.json
@@ -74,5 +103,5 @@ npm run serve                   # preview at http://localhost:8000
 npm test                        # offline logic tests
 ```
 
-> Note: fetching requires outbound access to `api.chess.com`. Some sandboxed
-> environments block it; the GitHub Action runners do not.
+> Fetching needs outbound access to `api.chess.com`; some sandboxes block it, but
+> GitHub's Action runners do not.
