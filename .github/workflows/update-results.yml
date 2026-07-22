@@ -1,22 +1,26 @@
-name: update-results
+name: update-and-deploy
 
-# Fetches fresh chess.com data, aggregates it, and commits the results so
-# GitHub Pages redeploys automatically.
+# Fetches fresh chess.com data, aggregates it, then deploys the static site to
+# GitHub Pages. Pages "Source" must be set to "GitHub Actions".
 
 on:
   schedule:
     - cron: "0 */6 * * *" # every 6 hours
   workflow_dispatch: {} # manual "Run workflow" button
+  push:
+    branches: [main] # redeploy when the site or config changes
 
 permissions:
-  contents: write
+  contents: write # commit cached data back to the repo
+  pages: write # deploy to Pages
+  id-token: write # required by deploy-pages
 
 concurrency:
-  group: update-results
+  group: pages
   cancel-in-progress: false
 
 jobs:
-  update:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -30,7 +34,15 @@ jobs:
       - name: Fetch and aggregate results
         run: node scripts/fetch-results.js
 
-      - name: Commit updated data
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Commit updated data (best-effort; needs write permission)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -39,5 +51,16 @@ jobs:
             echo "No data changes."
           else
             git commit -m "chore: update chess league results ($(date -u +'%Y-%m-%dT%H:%MZ'))"
-            git push
+            git push || echo "::warning::Could not push data. Enable Settings → Actions → General → Workflow permissions → Read and write, so caching persists."
           fi
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

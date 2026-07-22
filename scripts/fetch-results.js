@@ -23,7 +23,7 @@ const RESULTS_FILE = path.join(DATA_DIR, 'results.json');
 const LEAGUE_FILE = path.join(ROOT, 'league.json');
 
 const USER_AGENT =
-  'chess-league-tracker/1.0 (https://github.com/bp1661/chess-league; contact: benpetricoff@gmail.com)';
+  'chess-league-tracker/1.0 (+https://github.com/bp1661/chess-league)';
 
 const DRAW_RESULTS = new Set([
   'agreed',

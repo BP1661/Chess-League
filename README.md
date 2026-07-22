@@ -52,16 +52,17 @@ Usernames are case-insensitive. The next Action run picks up the change.
 ## Refreshing the data
 
 - **Automatic:** every 6 hours (cron in the workflow).
-- **Manual:** GitHub → **Actions** → **update-results** → **Run workflow**
+- **Manual:** GitHub → **Actions** → **update-and-deploy** → **Run workflow**
   (the "⟳ Refresh now" link on the page points here).
 
 ## One-time setup
 
 1. **Make the repo public** (required for free GitHub Pages).
-2. **Settings → Pages** → *Deploy from a branch* → branch `main`, folder `/ (root)`.
+2. **Settings → Pages → Source** → **GitHub Actions**.
 3. **Settings → Actions → General → Workflow permissions** → *Read and write
-   permissions* (so the Action can commit the updated data).
-4. Trigger **update-results** once manually to generate the first dataset.
+   permissions* (so the Action can commit the cached data back).
+4. **Actions → update-and-deploy → Run workflow** to fetch data and deploy.
+   (A push to `main` also triggers it automatically.)
 
 ## Running locally
 
