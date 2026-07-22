@@ -1,5 +1,5 @@
 {
-  "generatedAt": null,
+  "generatedAt": "2026-07-22T16:08:28.196Z",
   "players": [
     {
       "username": "bigb1201",
@@ -46,61 +46,61 @@
   "standings": {
     "all": [
       {
-        "username": "bigb1201",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
         "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "blakekirchner",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "colemartin99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "wins": 69,
+        "losses": 41,
+        "draws": 3,
+        "games": 113,
+        "points": 70.5,
+        "winPct": 61.1
       },
       {
         "username": "jackyoxsimer",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "wins": 15,
+        "losses": 34,
+        "draws": 1,
+        "games": 50,
+        "points": 15.5,
+        "winPct": 30
       },
       {
-        "username": "lamelo_balllll",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "username": "colemartin99",
+        "wins": 13,
+        "losses": 8,
+        "draws": 1,
+        "games": 22,
+        "points": 13.5,
+        "winPct": 59.1
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 11,
+        "losses": 25,
+        "draws": 1,
+        "games": 37,
+        "points": 11.5,
+        "winPct": 29.7
       },
       {
         "username": "sbluestone99",
+        "wins": 5,
+        "losses": 6,
+        "draws": 0,
+        "games": 11,
+        "points": 5,
+        "winPct": 45.5
+      },
+      {
+        "username": "lamelo_balllll",
+        "wins": 3,
+        "losses": 2,
+        "draws": 0,
+        "games": 5,
+        "points": 3,
+        "winPct": 60
+      },
+      {
+        "username": "bigb1201",
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -111,6 +111,33 @@
     ],
     "bullet": [
       {
+        "username": "colemartin99",
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "games": 1,
+        "points": 1,
+        "winPct": 100
+      },
+      {
+        "username": "bigbadbode",
+        "wins": 1,
+        "losses": 1,
+        "draws": 0,
+        "games": 2,
+        "points": 1,
+        "winPct": 50
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "games": 1,
+        "points": 0,
+        "winPct": 0
+      },
+      {
         "username": "bigb1201",
         "wins": 0,
         "losses": 0,
@@ -120,34 +147,7 @@
         "winPct": 0
       },
       {
-        "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
         "username": "blakekirchner",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "colemartin99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "jackyoxsimer",
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -176,61 +176,61 @@
     ],
     "blitz": [
       {
-        "username": "bigb1201",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
         "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "blakekirchner",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "wins": 18,
+        "losses": 9,
+        "draws": 2,
+        "games": 29,
+        "points": 19,
+        "winPct": 62.1
       },
       {
         "username": "colemartin99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "wins": 4,
+        "losses": 3,
+        "draws": 1,
+        "games": 8,
+        "points": 4.5,
+        "winPct": 50
       },
       {
-        "username": "jackyoxsimer",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "username": "blakekirchner",
+        "wins": 3,
+        "losses": 10,
+        "draws": 1,
+        "games": 14,
+        "points": 3.5,
+        "winPct": 21.4
       },
       {
         "username": "lamelo_balllll",
-        "wins": 0,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "games": 3,
+        "points": 3,
+        "winPct": 100
       },
       {
         "username": "sbluestone99",
+        "wins": 2,
+        "losses": 1,
+        "draws": 0,
+        "games": 3,
+        "points": 2,
+        "winPct": 66.7
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 1,
+        "losses": 8,
+        "draws": 0,
+        "games": 9,
+        "points": 1,
+        "winPct": 11.1
+      },
+      {
+        "username": "bigb1201",
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -241,61 +241,61 @@
     ],
     "rapid": [
       {
-        "username": "bigb1201",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
         "username": "bigbadbode",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "blakekirchner",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
-      },
-      {
-        "username": "colemartin99",
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "wins": 50,
+        "losses": 31,
+        "draws": 1,
+        "games": 82,
+        "points": 50.5,
+        "winPct": 61
       },
       {
         "username": "jackyoxsimer",
-        "wins": 0,
-        "losses": 0,
+        "wins": 14,
+        "losses": 25,
+        "draws": 1,
+        "games": 40,
+        "points": 14.5,
+        "winPct": 35
+      },
+      {
+        "username": "colemartin99",
+        "wins": 8,
+        "losses": 5,
         "draws": 0,
-        "games": 0,
-        "points": 0,
-        "winPct": 0
+        "games": 13,
+        "points": 8,
+        "winPct": 61.5
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 8,
+        "losses": 15,
+        "draws": 0,
+        "games": 23,
+        "points": 8,
+        "winPct": 34.8
+      },
+      {
+        "username": "sbluestone99",
+        "wins": 3,
+        "losses": 5,
+        "draws": 0,
+        "games": 8,
+        "points": 3,
+        "winPct": 37.5
       },
       {
         "username": "lamelo_balllll",
         "wins": 0,
-        "losses": 0,
+        "losses": 2,
         "draws": 0,
-        "games": 0,
+        "games": 2,
         "points": 0,
         "winPct": 0
       },
       {
-        "username": "sbluestone99",
+        "username": "bigb1201",
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -562,9 +562,9 @@
     },
     "bigbadbode|blakekirchner": {
       "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 24,
+        "l": 10,
+        "d": 1
       },
       "bullet": {
         "w": 0,
@@ -572,13 +572,13 @@
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 9,
+        "l": 3,
+        "d": 1
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
+        "w": 15,
+        "l": 7,
         "d": 0
       },
       "daily": {
@@ -589,23 +589,23 @@
     },
     "bigbadbode|colemartin99": {
       "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 8,
+        "l": 12,
+        "d": 1
       },
       "bullet": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 3,
+        "l": 3,
+        "d": 1
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
+        "w": 5,
+        "l": 8,
         "d": 0
       },
       "daily": {
@@ -616,24 +616,24 @@
     },
     "bigbadbode|jackyoxsimer": {
       "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 30,
+        "l": 14,
+        "d": 1
       },
       "bullet": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
+        "w": 5,
+        "l": 1,
         "d": 0
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 24,
+        "l": 13,
+        "d": 1
       },
       "daily": {
         "w": 0,
@@ -643,7 +643,7 @@
     },
     "bigbadbode|lamelo_balllll": {
       "all": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -658,7 +658,7 @@
         "d": 0
       },
       "rapid": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -670,8 +670,8 @@
     },
     "bigbadbode|sbluestone99": {
       "all": {
-        "w": 0,
-        "l": 0,
+        "w": 6,
+        "l": 5,
         "d": 0
       },
       "bullet": {
@@ -680,13 +680,13 @@
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
+        "w": 1,
+        "l": 2,
         "d": 0
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
+        "w": 5,
+        "l": 3,
         "d": 0
       },
       "daily": {
@@ -724,9 +724,9 @@
     },
     "blakekirchner|bigbadbode": {
       "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 10,
+        "l": 24,
+        "d": 1
       },
       "bullet": {
         "w": 0,
@@ -734,13 +734,13 @@
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 3,
+        "l": 9,
+        "d": 1
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
+        "w": 7,
+        "l": 15,
         "d": 0
       },
       "daily": {
@@ -752,7 +752,7 @@
     "blakekirchner|colemartin99": {
       "all": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "bullet": {
@@ -762,7 +762,7 @@
       },
       "blitz": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "rapid": {
@@ -778,7 +778,7 @@
     },
     "blakekirchner|jackyoxsimer": {
       "all": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -793,7 +793,7 @@
         "d": 0
       },
       "rapid": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -886,23 +886,23 @@
     },
     "colemartin99|bigbadbode": {
       "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 12,
+        "l": 8,
+        "d": 1
       },
       "bullet": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 3,
+        "l": 3,
+        "d": 1
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
+        "w": 8,
+        "l": 5,
         "d": 0
       },
       "daily": {
@@ -913,7 +913,7 @@
     },
     "colemartin99|blakekirchner": {
       "all": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -923,7 +923,7 @@
         "d": 0
       },
       "blitz": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -1048,24 +1048,24 @@
     },
     "jackyoxsimer|bigbadbode": {
       "all": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 14,
+        "l": 30,
+        "d": 1
       },
       "bullet": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
+        "w": 1,
+        "l": 5,
         "d": 0
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
-        "d": 0
+        "w": 13,
+        "l": 24,
+        "d": 1
       },
       "daily": {
         "w": 0,
@@ -1076,7 +1076,7 @@
     "jackyoxsimer|blakekirchner": {
       "all": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "bullet": {
@@ -1091,7 +1091,7 @@
       },
       "rapid": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "daily": {
@@ -1129,8 +1129,8 @@
     },
     "jackyoxsimer|lamelo_balllll": {
       "all": {
-        "w": 0,
-        "l": 0,
+        "w": 1,
+        "l": 3,
         "d": 0
       },
       "bullet": {
@@ -1140,11 +1140,11 @@
       },
       "blitz": {
         "w": 0,
-        "l": 0,
+        "l": 3,
         "d": 0
       },
       "rapid": {
-        "w": 0,
+        "w": 1,
         "l": 0,
         "d": 0
       },
@@ -1211,7 +1211,7 @@
     "lamelo_balllll|bigbadbode": {
       "all": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "bullet": {
@@ -1226,7 +1226,7 @@
       },
       "rapid": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "daily": {
@@ -1291,8 +1291,8 @@
     },
     "lamelo_balllll|jackyoxsimer": {
       "all": {
-        "w": 0,
-        "l": 0,
+        "w": 3,
+        "l": 1,
         "d": 0
       },
       "bullet": {
@@ -1301,13 +1301,13 @@
         "d": 0
       },
       "blitz": {
-        "w": 0,
+        "w": 3,
         "l": 0,
         "d": 0
       },
       "rapid": {
         "w": 0,
-        "l": 0,
+        "l": 1,
         "d": 0
       },
       "daily": {
@@ -1372,8 +1372,8 @@
     },
     "sbluestone99|bigbadbode": {
       "all": {
-        "w": 0,
-        "l": 0,
+        "w": 5,
+        "l": 6,
         "d": 0
       },
       "bullet": {
@@ -1382,13 +1382,13 @@
         "d": 0
       },
       "blitz": {
-        "w": 0,
-        "l": 0,
+        "w": 2,
+        "l": 1,
         "d": 0
       },
       "rapid": {
-        "w": 0,
-        "l": 0,
+        "w": 3,
+        "l": 5,
         "d": 0
       },
       "daily": {
@@ -1506,10 +1506,1319 @@
       }
     }
   },
-  "games": [],
+  "games": [
+    {
+      "url": "https://www.chess.com/game/live/171899805080",
+      "timeClass": "rapid",
+      "endTime": 1784687059,
+      "date": "2026-07-22T02:24:19.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "lamelo_balllll",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/171897440818",
+      "timeClass": "rapid",
+      "endTime": 1784681093,
+      "date": "2026-07-22T00:44:53.000Z",
+      "rated": false,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "sbluestone99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/171664231996",
+      "timeClass": "rapid",
+      "endTime": 1784232221,
+      "date": "2026-07-16T20:03:41.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/169442768232",
+      "timeClass": "rapid",
+      "endTime": 1780118852,
+      "date": "2026-05-30T05:27:32.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "blakekirchner",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/169439665498",
+      "timeClass": "bullet",
+      "endTime": 1780110251,
+      "date": "2026-05-30T03:04:11.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/169422180200",
+      "timeClass": "rapid",
+      "endTime": 1780077314,
+      "date": "2026-05-29T17:55:14.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/169334631886",
+      "timeClass": "rapid",
+      "endTime": 1779920304,
+      "date": "2026-05-27T22:18:24.000Z",
+      "rated": false,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/169334166580",
+      "timeClass": "rapid",
+      "endTime": 1779919230,
+      "date": "2026-05-27T22:00:30.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "sbluestone99",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168446035214",
+      "timeClass": "rapid",
+      "endTime": 1778313468,
+      "date": "2026-05-09T07:57:48.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168423333952",
+      "timeClass": "rapid",
+      "endTime": 1778264674,
+      "date": "2026-05-08T18:24:34.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168343065734",
+      "timeClass": "blitz",
+      "endTime": 1778119634,
+      "date": "2026-05-07T02:07:14.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168341879704",
+      "timeClass": "rapid",
+      "endTime": 1778116627,
+      "date": "2026-05-07T01:17:07.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168329296346",
+      "timeClass": "rapid",
+      "endTime": 1778092079,
+      "date": "2026-05-06T18:27:59.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168328709088",
+      "timeClass": "rapid",
+      "endTime": 1778091656,
+      "date": "2026-05-06T18:20:56.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168328453418",
+      "timeClass": "rapid",
+      "endTime": 1778090870,
+      "date": "2026-05-06T18:07:50.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168328206494",
+      "timeClass": "rapid",
+      "endTime": 1778090520,
+      "date": "2026-05-06T18:02:00.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168176166418",
+      "timeClass": "rapid",
+      "endTime": 1777813959,
+      "date": "2026-05-03T13:12:39.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168149672780",
+      "timeClass": "blitz",
+      "endTime": 1777755659,
+      "date": "2026-05-02T21:00:59.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168108114248",
+      "timeClass": "rapid",
+      "endTime": 1777676755,
+      "date": "2026-05-01T23:05:55.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/168068428066",
+      "timeClass": "blitz",
+      "endTime": 1777608700,
+      "date": "2026-05-01T04:11:40.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/167876347048",
+      "timeClass": "rapid",
+      "endTime": 1777254082,
+      "date": "2026-04-27T01:41:22.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/166743396808",
+      "timeClass": "blitz",
+      "endTime": 1775093163,
+      "date": "2026-04-02T01:26:03.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "sbluestone99",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/165602997118",
+      "timeClass": "rapid",
+      "endTime": 1772830537,
+      "date": "2026-03-06T20:55:37.000Z",
+      "rated": false,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "sbluestone99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/165354556460",
+      "timeClass": "blitz",
+      "endTime": 1772343925,
+      "date": "2026-03-01T05:45:25.000Z",
+      "rated": true,
+      "white": "bigbadbode",
+      "black": "sbluestone99",
+      "winner": "sbluestone99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/165354544602",
+      "timeClass": "blitz",
+      "endTime": 1772343274,
+      "date": "2026-03-01T05:34:34.000Z",
+      "rated": true,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "sbluestone99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/164419138902",
+      "timeClass": "blitz",
+      "endTime": 1770578896,
+      "date": "2026-02-08T19:28:16.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/147413575276",
+      "timeClass": "rapid",
+      "endTime": 1767194070,
+      "date": "2025-12-31T15:14:30.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/147412929472",
+      "timeClass": "rapid",
+      "endTime": 1767193564,
+      "date": "2025-12-31T15:06:04.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/142520688562",
+      "timeClass": "rapid",
+      "endTime": 1756564317,
+      "date": "2025-08-30T14:31:57.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/141964856788",
+      "timeClass": "rapid",
+      "endTime": 1755369470,
+      "date": "2025-08-16T18:37:50.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/146858606705",
+      "timeClass": "blitz",
+      "endTime": 1752545814,
+      "date": "2025-07-15T02:16:54.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/146858599993",
+      "timeClass": "blitz",
+      "endTime": 1752545232,
+      "date": "2025-07-15T02:07:12.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/146857404119",
+      "timeClass": "rapid",
+      "endTime": 1752544806,
+      "date": "2025-07-15T02:00:06.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/146856800177",
+      "timeClass": "rapid",
+      "endTime": 1752543630,
+      "date": "2025-07-15T01:40:30.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/144940763417",
+      "timeClass": "rapid",
+      "endTime": 1750627412,
+      "date": "2025-06-22T21:23:32.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/144940173231",
+      "timeClass": "rapid",
+      "endTime": 1750626821,
+      "date": "2025-06-22T21:13:41.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/144158968621",
+      "timeClass": "rapid",
+      "endTime": 1749846058,
+      "date": "2025-06-13T20:20:58.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/144158380303",
+      "timeClass": "blitz",
+      "endTime": 1749845199,
+      "date": "2025-06-13T20:06:39.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/144158371317",
+      "timeClass": "blitz",
+      "endTime": 1749844933,
+      "date": "2025-06-13T20:02:13.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/144157773767",
+      "timeClass": "blitz",
+      "endTime": 1749844538,
+      "date": "2025-06-13T19:55:38.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/141158467235",
+      "timeClass": "bullet",
+      "endTime": 1746844831,
+      "date": "2025-05-10T02:40:31.000Z",
+      "rated": true,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/141156067907",
+      "timeClass": "blitz",
+      "endTime": 1746842785,
+      "date": "2025-05-10T02:06:25.000Z",
+      "rated": true,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/139304471265",
+      "timeClass": "rapid",
+      "endTime": 1744991815,
+      "date": "2025-04-18T15:56:55.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/138715242175",
+      "timeClass": "rapid",
+      "endTime": 1744402456,
+      "date": "2025-04-11T20:14:16.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/138713453705",
+      "timeClass": "rapid",
+      "endTime": 1744400980,
+      "date": "2025-04-11T19:49:40.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/136978846975",
+      "timeClass": "rapid",
+      "endTime": 1742665803,
+      "date": "2025-03-22T17:50:03.000Z",
+      "rated": false,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/134521144763",
+      "timeClass": "rapid",
+      "endTime": 1740783153,
+      "date": "2025-02-28T22:52:33.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "sbluestone99",
+      "winner": "sbluestone99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/134519942185",
+      "timeClass": "rapid",
+      "endTime": 1740781960,
+      "date": "2025-02-28T22:32:40.000Z",
+      "rated": false,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/134500151159",
+      "timeClass": "rapid",
+      "endTime": 1740761865,
+      "date": "2025-02-28T16:57:45.000Z",
+      "rated": true,
+      "white": "jackyoxsimer",
+      "black": "lamelo_balllll",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/133826356813",
+      "timeClass": "rapid",
+      "endTime": 1740088574,
+      "date": "2025-02-20T21:56:14.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/133826345823",
+      "timeClass": "rapid",
+      "endTime": 1740087668,
+      "date": "2025-02-20T21:41:08.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/133825151345",
+      "timeClass": "rapid",
+      "endTime": 1740087143,
+      "date": "2025-02-20T21:32:23.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": null,
+      "draw": true
+    },
+    {
+      "url": "https://www.chess.com/game/live/133421943439",
+      "timeClass": "blitz",
+      "endTime": 1739683114,
+      "date": "2025-02-16T05:18:34.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/133421350569",
+      "timeClass": "blitz",
+      "endTime": 1739682856,
+      "date": "2025-02-16T05:14:16.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": null,
+      "draw": true
+    },
+    {
+      "url": "https://www.chess.com/game/live/133420753951",
+      "timeClass": "blitz",
+      "endTime": 1739682290,
+      "date": "2025-02-16T05:04:50.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/132352184771",
+      "timeClass": "rapid",
+      "endTime": 1738613718,
+      "date": "2025-02-03T20:15:18.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/132351708791",
+      "timeClass": "rapid",
+      "endTime": 1738612986,
+      "date": "2025-02-03T20:03:06.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/132351631741",
+      "timeClass": "rapid",
+      "endTime": 1738612932,
+      "date": "2025-02-03T20:02:12.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/132351018305",
+      "timeClass": "rapid",
+      "endTime": 1738612527,
+      "date": "2025-02-03T19:55:27.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/128449969335",
+      "timeClass": "rapid",
+      "endTime": 1734711289,
+      "date": "2024-12-20T16:14:49.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/128448826205",
+      "timeClass": "rapid",
+      "endTime": 1734710817,
+      "date": "2024-12-20T16:06:57.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/128447654541",
+      "timeClass": "rapid",
+      "endTime": 1734709867,
+      "date": "2024-12-20T15:51:07.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/128228980837",
+      "timeClass": "rapid",
+      "endTime": 1734490967,
+      "date": "2024-12-18T03:02:47.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/128228968741",
+      "timeClass": "rapid",
+      "endTime": 1734490122,
+      "date": "2024-12-18T02:48:42.000Z",
+      "rated": false,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/128227758033",
+      "timeClass": "rapid",
+      "endTime": 1734489937,
+      "date": "2024-12-18T02:45:37.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "colemartin99",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/127095561153",
+      "timeClass": "blitz",
+      "endTime": 1733357043,
+      "date": "2024-12-05T00:04:03.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "lamelo_balllll",
+      "winner": "lamelo_balllll",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/127093143515",
+      "timeClass": "blitz",
+      "endTime": 1733354480,
+      "date": "2024-12-04T23:21:20.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "lamelo_balllll",
+      "winner": "lamelo_balllll",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/124387821885",
+      "timeClass": "blitz",
+      "endTime": 1730649447,
+      "date": "2024-11-03T15:57:27.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123818396581",
+      "timeClass": "rapid",
+      "endTime": 1730079720,
+      "date": "2024-10-28T01:42:00.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123817841969",
+      "timeClass": "rapid",
+      "endTime": 1730079329,
+      "date": "2024-10-28T01:35:29.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123817817571",
+      "timeClass": "rapid",
+      "endTime": 1730079080,
+      "date": "2024-10-28T01:31:20.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123817204337",
+      "timeClass": "rapid",
+      "endTime": 1730078934,
+      "date": "2024-10-28T01:28:54.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123745822859",
+      "timeClass": "rapid",
+      "endTime": 1730007262,
+      "date": "2024-10-27T05:34:22.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123035410593",
+      "timeClass": "rapid",
+      "endTime": 1729297329,
+      "date": "2024-10-19T00:22:09.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123034819907",
+      "timeClass": "rapid",
+      "endTime": 1729296432,
+      "date": "2024-10-19T00:07:12.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/123034231265",
+      "timeClass": "rapid",
+      "endTime": 1729295893,
+      "date": "2024-10-18T23:58:13.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/122835871379",
+      "timeClass": "rapid",
+      "endTime": 1729097250,
+      "date": "2024-10-16T16:47:30.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/121185682347",
+      "timeClass": "rapid",
+      "endTime": 1727447458,
+      "date": "2024-09-27T14:30:58.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/121185091481",
+      "timeClass": "rapid",
+      "endTime": 1727446839,
+      "date": "2024-09-27T14:20:39.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/121185072333",
+      "timeClass": "rapid",
+      "endTime": 1727446293,
+      "date": "2024-09-27T14:11:33.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/119635827995",
+      "timeClass": "rapid",
+      "endTime": 1725897828,
+      "date": "2024-09-09T16:03:48.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/118778369797",
+      "timeClass": "blitz",
+      "endTime": 1725039743,
+      "date": "2024-08-30T17:42:23.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "lamelo_balllll",
+      "winner": "lamelo_balllll",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/117039622875",
+      "timeClass": "rapid",
+      "endTime": 1723301129,
+      "date": "2024-08-10T14:45:29.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/117039053031",
+      "timeClass": "rapid",
+      "endTime": 1723300633,
+      "date": "2024-08-10T14:37:13.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116866827955",
+      "timeClass": "rapid",
+      "endTime": 1723128233,
+      "date": "2024-08-08T14:43:53.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116866208635",
+      "timeClass": "rapid",
+      "endTime": 1723127842,
+      "date": "2024-08-08T14:37:22.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116782851113",
+      "timeClass": "rapid",
+      "endTime": 1723044633,
+      "date": "2024-08-07T15:30:33.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116782816315",
+      "timeClass": "rapid",
+      "endTime": 1723043954,
+      "date": "2024-08-07T15:19:14.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116781669213",
+      "timeClass": "rapid",
+      "endTime": 1723043698,
+      "date": "2024-08-07T15:14:58.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116781660975",
+      "timeClass": "rapid",
+      "endTime": 1723042859,
+      "date": "2024-08-07T15:00:59.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/116617191149",
+      "timeClass": "rapid",
+      "endTime": 1722878719,
+      "date": "2024-08-05T17:25:19.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/115895443129",
+      "timeClass": "rapid",
+      "endTime": 1722157215,
+      "date": "2024-07-28T09:00:15.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/115891780177",
+      "timeClass": "rapid",
+      "endTime": 1722153330,
+      "date": "2024-07-28T07:55:30.000Z",
+      "rated": false,
+      "white": "jackyoxsimer",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/115891242663",
+      "timeClass": "rapid",
+      "endTime": 1722152609,
+      "date": "2024-07-28T07:43:29.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/115194536349",
+      "timeClass": "rapid",
+      "endTime": 1721456590,
+      "date": "2024-07-20T06:23:10.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "jackyoxsimer",
+      "winner": "jackyoxsimer",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/111092512369",
+      "timeClass": "blitz",
+      "endTime": 1717354156,
+      "date": "2024-06-02T18:49:16.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107619901373",
+      "timeClass": "blitz",
+      "endTime": 1713881398,
+      "date": "2024-04-23T14:09:58.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107571761325",
+      "timeClass": "blitz",
+      "endTime": 1713833181,
+      "date": "2024-04-23T00:46:21.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": null,
+      "draw": true
+    },
+    {
+      "url": "https://www.chess.com/game/live/107571143525",
+      "timeClass": "blitz",
+      "endTime": 1713832691,
+      "date": "2024-04-23T00:38:11.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107570554177",
+      "timeClass": "blitz",
+      "endTime": 1713832038,
+      "date": "2024-04-23T00:27:18.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107323783741",
+      "timeClass": "blitz",
+      "endTime": 1713585151,
+      "date": "2024-04-20T03:52:31.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107323197543",
+      "timeClass": "blitz",
+      "endTime": 1713584616,
+      "date": "2024-04-20T03:43:36.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107322636897",
+      "timeClass": "blitz",
+      "endTime": 1713584095,
+      "date": "2024-04-20T03:34:55.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107322057777",
+      "timeClass": "blitz",
+      "endTime": 1713583715,
+      "date": "2024-04-20T03:28:35.000Z",
+      "rated": false,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107321990547",
+      "timeClass": "blitz",
+      "endTime": 1713583235,
+      "date": "2024-04-20T03:20:35.000Z",
+      "rated": false,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/107321429221",
+      "timeClass": "blitz",
+      "endTime": 1713582836,
+      "date": "2024-04-20T03:13:56.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102568200591",
+      "timeClass": "blitz",
+      "endTime": 1708829293,
+      "date": "2024-02-25T02:48:13.000Z",
+      "rated": true,
+      "white": "colemartin99",
+      "black": "bigbadbode",
+      "winner": "colemartin99",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102567017159",
+      "timeClass": "rapid",
+      "endTime": 1708828658,
+      "date": "2024-02-25T02:37:38.000Z",
+      "rated": true,
+      "white": "sbluestone99",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102494422265",
+      "timeClass": "rapid",
+      "endTime": 1708755888,
+      "date": "2024-02-24T06:24:48.000Z",
+      "rated": true,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102494380791",
+      "timeClass": "rapid",
+      "endTime": 1708755433,
+      "date": "2024-02-24T06:17:13.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102493816391",
+      "timeClass": "rapid",
+      "endTime": 1708755210,
+      "date": "2024-02-24T06:13:30.000Z",
+      "rated": true,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102493800821",
+      "timeClass": "rapid",
+      "endTime": 1708754804,
+      "date": "2024-02-24T06:06:44.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102493791521",
+      "timeClass": "rapid",
+      "endTime": 1708754719,
+      "date": "2024-02-24T06:05:19.000Z",
+      "rated": true,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102492680189",
+      "timeClass": "rapid",
+      "endTime": 1708754661,
+      "date": "2024-02-24T06:04:21.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "blakekirchner",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102492577179",
+      "timeClass": "rapid",
+      "endTime": 1708753907,
+      "date": "2024-02-24T05:51:47.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102492020491",
+      "timeClass": "rapid",
+      "endTime": 1708753397,
+      "date": "2024-02-24T05:43:17.000Z",
+      "rated": true,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102491446723",
+      "timeClass": "rapid",
+      "endTime": 1708753021,
+      "date": "2024-02-24T05:37:01.000Z",
+      "rated": true,
+      "white": "blakekirchner",
+      "black": "bigbadbode",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/102490838881",
+      "timeClass": "rapid",
+      "endTime": 1708752465,
+      "date": "2024-02-24T05:27:45.000Z",
+      "rated": true,
+      "white": "bigbadbode",
+      "black": "blakekirchner",
+      "winner": "bigbadbode",
+      "draw": false
+    },
+    {
+      "url": "https://www.chess.com/game/live/25134698123",
+      "timeClass": "blitz",
+      "endTime": 1631396874,
+      "date": "2021-09-11T21:47:54.000Z",
+      "rated": true,
+      "white": "colemartin99",
+      "black": "blakekirchner",
+      "winner": "colemartin99",
+      "draw": false
+    }
+  ],
   "unavailable": [],
   "totals": {
-    "leagueGames": 0
-  },
-  "note": "Placeholder — no data yet. Run the update-results GitHub Action to populate."
+    "leagueGames": 119
+  }
 }
