@@ -1,0 +1,1515 @@
+{
+  "generatedAt": null,
+  "players": [
+    {
+      "username": "bigb1201",
+      "display": "BigB1201"
+    },
+    {
+      "username": "bigbadbode",
+      "display": "BigBadBode"
+    },
+    {
+      "username": "blakekirchner",
+      "display": "blakekirchner"
+    },
+    {
+      "username": "colemartin99",
+      "display": "colemartin99"
+    },
+    {
+      "username": "jackyoxsimer",
+      "display": "jackyoxsimer"
+    },
+    {
+      "username": "lamelo_balllll",
+      "display": "LAMELO_BALLLLL"
+    },
+    {
+      "username": "sbluestone99",
+      "display": "sbluestone99"
+    }
+  ],
+  "timeClasses": [
+    "bullet",
+    "blitz",
+    "rapid",
+    "daily"
+  ],
+  "buckets": [
+    "all",
+    "bullet",
+    "blitz",
+    "rapid",
+    "daily"
+  ],
+  "standings": {
+    "all": [
+      {
+        "username": "bigb1201",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "bigbadbode",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "colemartin99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "lamelo_balllll",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "sbluestone99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      }
+    ],
+    "bullet": [
+      {
+        "username": "bigb1201",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "bigbadbode",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "colemartin99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "lamelo_balllll",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "sbluestone99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      }
+    ],
+    "blitz": [
+      {
+        "username": "bigb1201",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "bigbadbode",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "colemartin99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "lamelo_balllll",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "sbluestone99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      }
+    ],
+    "rapid": [
+      {
+        "username": "bigb1201",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "bigbadbode",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "colemartin99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "lamelo_balllll",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "sbluestone99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      }
+    ],
+    "daily": [
+      {
+        "username": "bigb1201",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "bigbadbode",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "blakekirchner",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "colemartin99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "jackyoxsimer",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "lamelo_balllll",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      },
+      {
+        "username": "sbluestone99",
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "games": 0,
+        "points": 0,
+        "winPct": 0
+      }
+    ]
+  },
+  "headToHead": {
+    "bigb1201|bigbadbode": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigb1201|blakekirchner": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigb1201|colemartin99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigb1201|jackyoxsimer": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigb1201|lamelo_balllll": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigb1201|sbluestone99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigbadbode|bigb1201": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigbadbode|blakekirchner": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigbadbode|colemartin99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigbadbode|jackyoxsimer": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigbadbode|lamelo_balllll": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "bigbadbode|sbluestone99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "blakekirchner|bigb1201": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "blakekirchner|bigbadbode": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "blakekirchner|colemartin99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "blakekirchner|jackyoxsimer": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "blakekirchner|lamelo_balllll": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "blakekirchner|sbluestone99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "colemartin99|bigb1201": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "colemartin99|bigbadbode": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "colemartin99|blakekirchner": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "colemartin99|jackyoxsimer": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "colemartin99|lamelo_balllll": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "colemartin99|sbluestone99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "jackyoxsimer|bigb1201": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "jackyoxsimer|bigbadbode": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "jackyoxsimer|blakekirchner": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "jackyoxsimer|colemartin99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "jackyoxsimer|lamelo_balllll": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "jackyoxsimer|sbluestone99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "lamelo_balllll|bigb1201": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "lamelo_balllll|bigbadbode": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "lamelo_balllll|blakekirchner": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "lamelo_balllll|colemartin99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "lamelo_balllll|jackyoxsimer": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "lamelo_balllll|sbluestone99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "sbluestone99|bigb1201": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "sbluestone99|bigbadbode": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "sbluestone99|blakekirchner": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "sbluestone99|colemartin99": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "sbluestone99|jackyoxsimer": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    },
+    "sbluestone99|lamelo_balllll": {
+      "all": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "bullet": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "blitz": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "rapid": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      },
+      "daily": {
+        "w": 0,
+        "l": 0,
+        "d": 0
+      }
+    }
+  },
+  "games": [],
+  "unavailable": [],
+  "totals": {
+    "leagueGames": 0
+  },
+  "note": "Placeholder — no data yet. Run the update-results GitHub Action to populate."
+}

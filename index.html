@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Chess League Tracker</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>♞</text></svg>"
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap">
+        <h1>♞ Chess League</h1>
+        <p class="sub">Head-to-head record for league members, from chess.com.</p>
+        <p class="meta">
+          <span id="updated">Loading…</span>
+          <a
+            id="refresh-link"
+            class="refresh"
+            href="https://github.com/bp1661/chess-league/actions/workflows/update-results.yml"
+            target="_blank"
+            rel="noopener"
+            title="Opens GitHub Actions — click “Run workflow” to refresh now"
+            >⟳ Refresh now</a
+          >
+        </p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <div id="error" class="error" hidden></div>
+
+      <nav class="toggle" id="tc-toggle" aria-label="Time control filter"></nav>
+
+      <section>
+        <h2>Standings</h2>
+        <div class="table-scroll">
+          <table id="standings" class="grid"></table>
+        </div>
+      </section>
+
+      <section>
+        <h2>Head-to-head</h2>
+        <p class="hint">Row player’s record (W–L–D) vs. column player. Click a cell to filter the game log.</p>
+        <div class="table-scroll">
+          <table id="matrix" class="grid matrix"></table>
+        </div>
+      </section>
+
+      <section>
+        <div class="log-head">
+          <h2>Game log</h2>
+          <button id="clear-filter" class="clear" hidden>Clear filter ✕</button>
+        </div>
+        <p class="hint" id="log-count"></p>
+        <div class="table-scroll">
+          <table id="games" class="grid"></table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <span>Data from the chess.com public API · updated automatically via GitHub Actions.</span>
+      </div>
+    </footer>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
