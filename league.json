@@ -3,7 +3,7 @@
   "timezone": "America/Los_Angeles",
   "defaultTimeControl": "rapid",
   "timeControls": ["rapid", "blitz", "bullet", "daily"],
-  "_note": "weekStart is Week 1's Monday (PT). Each week runs Mon 00:00 → Sun 23:59:59 PT. Edit weekStart if the season began on a different Monday; week dates are derived from it.",
+  "_note": "2-week cycle: Week 1 = rounds 1-7 (each player plays all 6 opponents once), Week 2 = rounds 8-14 (reverse-color rematches). weekStart is Week 1's Monday (PT); each week runs Mon 00:00 → Sun 23:59:59 PT. Edit weekStart if the season began on a different Monday.",
   "weekStart": "2026-07-20",
   "players": [
     { "name": "Ben", "username": "bigb1201" },
@@ -21,30 +21,20 @@
         { "round": 1, "bye": "Pole", "matchups": [["Ben", "Tom"], ["Jack", "Bode"], ["Blake", "Sam"]] },
         { "round": 2, "bye": "Jack", "matchups": [["Tom", "Pole"], ["Sam", "Ben"], ["Bode", "Blake"]] },
         { "round": 3, "bye": "Blake", "matchups": [["Pole", "Jack"], ["Tom", "Sam"], ["Ben", "Bode"]] },
-        { "round": 4, "bye": "Ben", "matchups": [["Sam", "Pole"], ["Blake", "Jack"], ["Bode", "Tom"]] }
+        { "round": 4, "bye": "Ben", "matchups": [["Sam", "Pole"], ["Blake", "Jack"], ["Bode", "Tom"]] },
+        { "round": 5, "bye": "Tom", "matchups": [["Pole", "Blake"], ["Sam", "Bode"], ["Jack", "Ben"]] },
+        { "round": 6, "bye": "Sam", "matchups": [["Bode", "Pole"], ["Ben", "Blake"], ["Tom", "Jack"]] },
+        { "round": 7, "bye": "Bode", "half_end": true, "matchups": [["Pole", "Ben"], ["Blake", "Tom"], ["Jack", "Sam"]] }
       ]
     },
     {
       "week": 2,
       "rounds": [
-        { "round": 5, "bye": "Tom", "matchups": [["Pole", "Blake"], ["Sam", "Bode"], ["Jack", "Ben"]] },
-        { "round": 6, "bye": "Sam", "matchups": [["Bode", "Pole"], ["Ben", "Blake"], ["Tom", "Jack"]] },
-        { "round": 7, "bye": "Bode", "half_end": true, "matchups": [["Pole", "Ben"], ["Blake", "Tom"], ["Jack", "Sam"]] },
-        { "round": 8, "bye": "Pole", "matchups": [["Tom", "Ben"], ["Bode", "Jack"], ["Sam", "Blake"]] }
-      ]
-    },
-    {
-      "week": 3,
-      "rounds": [
+        { "round": 8, "bye": "Pole", "matchups": [["Tom", "Ben"], ["Bode", "Jack"], ["Sam", "Blake"]] },
         { "round": 9, "bye": "Jack", "matchups": [["Pole", "Tom"], ["Ben", "Sam"], ["Blake", "Bode"]] },
         { "round": 10, "bye": "Blake", "matchups": [["Jack", "Pole"], ["Sam", "Tom"], ["Bode", "Ben"]] },
         { "round": 11, "bye": "Ben", "matchups": [["Pole", "Sam"], ["Jack", "Blake"], ["Tom", "Bode"]] },
-        { "round": 12, "bye": "Tom", "matchups": [["Blake", "Pole"], ["Bode", "Sam"], ["Ben", "Jack"]] }
-      ]
-    },
-    {
-      "week": 4,
-      "rounds": [
+        { "round": 12, "bye": "Tom", "matchups": [["Blake", "Pole"], ["Bode", "Sam"], ["Ben", "Jack"]] },
         { "round": 13, "bye": "Sam", "matchups": [["Pole", "Bode"], ["Blake", "Ben"], ["Jack", "Tom"]] },
         { "round": 14, "bye": "Bode", "matchups": [["Ben", "Pole"], ["Tom", "Blake"], ["Sam", "Jack"]] }
       ]
