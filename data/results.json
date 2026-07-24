@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T19:34:44.000Z",
+  "generatedAt": "2026-07-24T03:21:58.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -174,8 +174,16 @@
               "blackUser": "bigb1201",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "sbluestone99",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/171990765684",
+                  "endTime": 1784855777,
+                  "date": "2026-07-24T01:16:17.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "sbluestone99",
+                  "actualBlack": "bigb1201"
                 },
                 "blitz": {
                   "status": "pending",
@@ -277,8 +285,16 @@
               "blackUser": "bigbadbode",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/171993090908",
+                  "endTime": 1784862043,
+                  "date": "2026-07-24T03:00:43.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "bigb1201",
+                  "actualBlack": "bigbadbode"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1216,22 +1232,32 @@
       {
         "name": "Bode",
         "username": "bigbadbode",
-        "points": 2,
-        "games": 3,
-        "wins": 2,
+        "points": 3,
+        "games": 4,
+        "wins": 3,
         "losses": 1,
         "draws": 0,
-        "winPct": 66.7
+        "winPct": 75
       },
       {
         "name": "Sam",
         "username": "sbluestone99",
-        "points": 2,
-        "games": 2,
-        "wins": 2,
+        "points": 3,
+        "games": 3,
+        "wins": 3,
         "losses": 0,
         "draws": 0,
         "winPct": 100
+      },
+      {
+        "name": "Ben",
+        "username": "bigb1201",
+        "points": 0,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "winPct": 0
       },
       {
         "name": "Jack",
@@ -1260,16 +1286,6 @@
         "games": 1,
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Ben",
-        "username": "bigb1201",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
         "draws": 0,
         "winPct": 0
       },
