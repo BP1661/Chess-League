@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T13:57:38.000Z",
+  "generatedAt": "2026-07-24T19:38:54.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -119,8 +119,16 @@
               "blackUser": "sbluestone99",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "sbluestone99",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/172020473648",
+                  "endTime": 1784912158,
+                  "date": "2026-07-24T16:55:58.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "blakekirchner",
+                  "actualBlack": "sbluestone99"
                 },
                 "blitz": {
                   "status": "pending",
@@ -206,8 +214,16 @@
               "blackUser": "blakekirchner",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/172016712376",
+                  "endTime": 1784905973,
+                  "date": "2026-07-24T15:12:53.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "bigbadbode",
+                  "actualBlack": "blakekirchner"
                 },
                 "blitz": {
                   "status": "pending",
@@ -261,8 +277,16 @@
               "blackUser": "sbluestone99",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "sbluestone99",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/172023493238",
+                  "endTime": 1784915892,
+                  "date": "2026-07-24T17:58:12.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "lamelo_balllll",
+                  "actualBlack": "sbluestone99"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1230,28 +1254,48 @@
   "standings": {
     "rapid": [
       {
-        "name": "Bode",
-        "username": "bigbadbode",
-        "points": 3,
-        "games": 4,
-        "wins": 3,
-        "losses": 1,
-        "draws": 0,
-        "winPct": 75
-      },
-      {
         "name": "Sam",
         "username": "sbluestone99",
-        "points": 3,
-        "games": 3,
-        "wins": 3,
+        "points": 5,
+        "games": 5,
+        "wins": 5,
         "losses": 0,
         "draws": 0,
         "winPct": 100
       },
       {
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 4,
+        "games": 5,
+        "wins": 4,
+        "losses": 1,
+        "draws": 0,
+        "winPct": 80
+      },
+      {
         "name": "Ben",
         "username": "bigb1201",
+        "points": 0,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "winPct": 0
+      },
+      {
+        "name": "Blake",
+        "username": "blakekirchner",
+        "points": 0,
+        "games": 2,
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "winPct": 0
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
         "points": 0,
         "games": 2,
         "wins": 0,
@@ -1276,26 +1320,6 @@
         "games": 1,
         "wins": 0,
         "losses": 1,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Tom",
-        "username": "lamelo_balllll",
-        "points": 0,
-        "games": 1,
-        "wins": 0,
-        "losses": 1,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Blake",
-        "username": "blakekirchner",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
         "draws": 0,
         "winPct": 0
       }
