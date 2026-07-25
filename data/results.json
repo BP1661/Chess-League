@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T03:20:14.000Z",
+  "generatedAt": "2026-07-25T08:15:42.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -534,8 +534,16 @@
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/172040330798",
+                  "endTime": 1784951243,
+                  "date": "2026-07-25T03:47:23.000Z",
+                  "timeClass": "blitz",
+                  "actualWhite": "bigbadbode",
+                  "actualBlack": "colemartin99"
                 },
                 "bullet": {
                   "status": "pending",
@@ -1326,6 +1334,26 @@
     ],
     "blitz": [
       {
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 1,
+        "games": 1,
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "winPct": 100
+      },
+      {
+        "name": "Pole",
+        "username": "colemartin99",
+        "points": 0,
+        "games": 1,
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "winPct": 0
+      },
+      {
         "name": "Ben",
         "username": "bigb1201",
         "points": 0,
@@ -1346,28 +1374,8 @@
         "winPct": 0
       },
       {
-        "name": "Bode",
-        "username": "bigbadbode",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
         "name": "Jack",
         "username": "jackyoxsimer",
-        "points": 0,
-        "games": 0,
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Pole",
-        "username": "colemartin99",
         "points": 0,
         "games": 0,
         "wins": 0,
