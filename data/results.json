@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T19:17:37.000Z",
+  "generatedAt": "2026-07-26T03:34:09.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -63,8 +63,16 @@
               "blackUser": "lamelo_balllll",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigb1201",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/172072353554",
+                  "endTime": 1785007578,
+                  "date": "2026-07-25T19:26:18.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "bigb1201",
+                  "actualBlack": "lamelo_balllll"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1284,26 +1292,26 @@
       {
         "name": "Ben",
         "username": "bigb1201",
-        "points": 0,
-        "games": 2,
-        "wins": 0,
+        "points": 1,
+        "games": 3,
+        "wins": 1,
         "losses": 2,
+        "draws": 0,
+        "winPct": 33.3
+      },
+      {
+        "name": "Tom",
+        "username": "lamelo_balllll",
+        "points": 0,
+        "games": 3,
+        "wins": 0,
+        "losses": 3,
         "draws": 0,
         "winPct": 0
       },
       {
         "name": "Blake",
         "username": "blakekirchner",
-        "points": 0,
-        "games": 2,
-        "wins": 0,
-        "losses": 2,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Tom",
-        "username": "lamelo_balllll",
         "points": 0,
         "games": 2,
         "wins": 0,
