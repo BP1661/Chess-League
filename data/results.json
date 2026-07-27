@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T14:49:58.000Z",
+  "generatedAt": "2026-07-27T19:43:40.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -1142,8 +1142,16 @@
               "blackUser": "bigb1201",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigb1201",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/172161834470",
+                  "endTime": 1785177450,
+                  "date": "2026-07-27T18:37:30.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "bigb1201",
+                  "actualBlack": "blakekirchner"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1197,8 +1205,16 @@
               "blackUser": "colemartin99",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "colemartin99",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/172163206032",
+                  "endTime": 1785179365,
+                  "date": "2026-07-27T19:09:25.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "colemartin99",
+                  "actualBlack": "bigb1201"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1292,12 +1308,32 @@
       {
         "name": "Ben",
         "username": "bigb1201",
-        "points": 1,
-        "games": 3,
-        "wins": 1,
-        "losses": 2,
+        "points": 2,
+        "games": 5,
+        "wins": 2,
+        "losses": 3,
         "draws": 0,
-        "winPct": 33.3
+        "winPct": 40
+      },
+      {
+        "name": "Pole",
+        "username": "colemartin99",
+        "points": 1,
+        "games": 2,
+        "wins": 1,
+        "losses": 1,
+        "draws": 0,
+        "winPct": 50
+      },
+      {
+        "name": "Blake",
+        "username": "blakekirchner",
+        "points": 0,
+        "games": 3,
+        "wins": 0,
+        "losses": 3,
+        "draws": 0,
+        "winPct": 0
       },
       {
         "name": "Tom",
@@ -1310,28 +1346,8 @@
         "winPct": 0
       },
       {
-        "name": "Blake",
-        "username": "blakekirchner",
-        "points": 0,
-        "games": 2,
-        "wins": 0,
-        "losses": 2,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
         "name": "Jack",
         "username": "jackyoxsimer",
-        "points": 0,
-        "games": 1,
-        "wins": 0,
-        "losses": 1,
-        "draws": 0,
-        "winPct": 0
-      },
-      {
-        "name": "Pole",
-        "username": "colemartin99",
         "points": 0,
         "games": 1,
         "wins": 0,
