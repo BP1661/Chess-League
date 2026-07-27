@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T03:42:18.000Z",
+  "generatedAt": "2026-07-27T10:02:38.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -48,8 +48,8 @@
       "end": "2026-07-26",
       "startEpoch": 1784530800,
       "endEpoch": 1785135600,
-      "isCurrent": true,
-      "windowClosed": false,
+      "isCurrent": false,
+      "windowClosed": true,
       "rounds": [
         {
           "round": 1,
@@ -75,15 +75,15 @@
                   "actualBlack": "lamelo_balllll"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -107,15 +107,15 @@
                   "actualBlack": "bigbadbode"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -139,15 +139,15 @@
                   "actualBlack": "sbluestone99"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -166,19 +166,19 @@
               "blackUser": "colemartin99",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -202,15 +202,15 @@
                   "actualBlack": "bigb1201"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -234,15 +234,15 @@
                   "actualBlack": "blakekirchner"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -261,19 +261,19 @@
               "blackUser": "jackyoxsimer",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -297,15 +297,15 @@
                   "actualBlack": "sbluestone99"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -329,15 +329,15 @@
                   "actualBlack": "bigbadbode"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -368,15 +368,15 @@
                   "actualBlack": "colemartin99"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -388,19 +388,19 @@
               "blackUser": "jackyoxsimer",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -424,15 +424,15 @@
                   "actualBlack": "lamelo_balllll"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -451,19 +451,19 @@
               "blackUser": "blakekirchner",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -487,15 +487,15 @@
                   "actualBlack": "bigbadbode"
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -507,19 +507,19 @@
               "blackUser": "bigb1201",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -538,7 +538,7 @@
               "blackUser": "colemartin99",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
@@ -554,11 +554,11 @@
                   "actualBlack": "colemartin99"
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -570,19 +570,19 @@
               "blackUser": "blakekirchner",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -594,19 +594,19 @@
               "blackUser": "jackyoxsimer",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -625,15 +625,15 @@
               "blackUser": "bigb1201",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
@@ -657,19 +657,19 @@
               "blackUser": "lamelo_balllll",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -681,19 +681,19 @@
               "blackUser": "sbluestone99",
               "results": {
                 "rapid": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "blitz": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "bullet": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 },
                 "daily": {
-                  "status": "pending",
+                  "status": "missed",
                   "score": null
                 }
               }
@@ -708,7 +708,7 @@
       "end": "2026-08-02",
       "startEpoch": 1785135600,
       "endEpoch": 1785740400,
-      "isCurrent": false,
+      "isCurrent": true,
       "windowClosed": false,
       "rounds": [
         {
