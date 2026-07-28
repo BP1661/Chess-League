@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T14:24:12.000Z",
+  "generatedAt": "2026-07-28T19:41:20.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -1063,8 +1063,16 @@
               "blackUser": "sbluestone99",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/172210573830",
+                  "endTime": 1785266780,
+                  "date": "2026-07-28T19:26:20.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "sbluestone99",
+                  "actualBlack": "bigbadbode"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1118,8 +1126,16 @@
               "blackUser": "bigbadbode",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/172201718058",
+                  "endTime": 1785253827,
+                  "date": "2026-07-28T15:50:27.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "bigbadbode",
+                  "actualBlack": "colemartin99"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1286,24 +1302,24 @@
   "standings": {
     "rapid": [
       {
+        "name": "Bode",
+        "username": "bigbadbode",
+        "points": 6,
+        "games": 7,
+        "wins": 6,
+        "losses": 1,
+        "draws": 0,
+        "winPct": 85.7
+      },
+      {
         "name": "Sam",
         "username": "sbluestone99",
         "points": 5,
-        "games": 5,
+        "games": 6,
         "wins": 5,
-        "losses": 0,
-        "draws": 0,
-        "winPct": 100
-      },
-      {
-        "name": "Bode",
-        "username": "bigbadbode",
-        "points": 4,
-        "games": 5,
-        "wins": 4,
         "losses": 1,
         "draws": 0,
-        "winPct": 80
+        "winPct": 83.3
       },
       {
         "name": "Ben",
@@ -1319,11 +1335,11 @@
         "name": "Pole",
         "username": "colemartin99",
         "points": 1,
-        "games": 2,
+        "games": 3,
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
-        "winPct": 50
+        "winPct": 33.3
       },
       {
         "name": "Blake",
