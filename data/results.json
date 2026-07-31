@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:42:08.000Z",
+  "generatedAt": "2026-07-31T03:32:53.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -850,8 +850,16 @@
               "blackUser": "bigbadbode",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "bigbadbode",
+                  "score": "0–1",
+                  "url": "https://www.chess.com/game/live/172306418742",
+                  "endTime": 1785443865,
+                  "date": "2026-07-30T20:37:45.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "blakekirchner",
+                  "actualBlack": "bigbadbode"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1304,12 +1312,12 @@
       {
         "name": "Bode",
         "username": "bigbadbode",
-        "points": 6,
-        "games": 7,
-        "wins": 6,
+        "points": 7,
+        "games": 8,
+        "wins": 7,
         "losses": 1,
         "draws": 0,
-        "winPct": 85.7
+        "winPct": 87.5
       },
       {
         "name": "Sam",
@@ -1345,9 +1353,9 @@
         "name": "Blake",
         "username": "blakekirchner",
         "points": 0,
-        "games": 3,
+        "games": 4,
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "winPct": 0
       },
