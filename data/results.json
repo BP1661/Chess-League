@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T14:22:35.000Z",
+  "generatedAt": "2026-07-31T19:43:10.000Z",
   "league": {
     "name": "Chess League — Season 1",
     "timezone": "America/Los_Angeles",
@@ -771,8 +771,16 @@
               "blackUser": "blakekirchner",
               "results": {
                 "rapid": {
-                  "status": "pending",
-                  "score": null
+                  "status": "played",
+                  "draw": false,
+                  "winnerUser": "sbluestone99",
+                  "score": "1–0",
+                  "url": "https://www.chess.com/game/live/172348164232",
+                  "endTime": 1785522858,
+                  "date": "2026-07-31T18:34:18.000Z",
+                  "timeClass": "rapid",
+                  "actualWhite": "sbluestone99",
+                  "actualBlack": "blakekirchner"
                 },
                 "blitz": {
                   "status": "pending",
@@ -1322,12 +1330,12 @@
       {
         "name": "Sam",
         "username": "sbluestone99",
-        "points": 5,
-        "games": 6,
-        "wins": 5,
+        "points": 6,
+        "games": 7,
+        "wins": 6,
         "losses": 1,
         "draws": 0,
-        "winPct": 83.3
+        "winPct": 85.7
       },
       {
         "name": "Ben",
@@ -1353,9 +1361,9 @@
         "name": "Blake",
         "username": "blakekirchner",
         "points": 0,
-        "games": 4,
+        "games": 5,
         "wins": 0,
-        "losses": 4,
+        "losses": 5,
         "draws": 0,
         "winPct": 0
       },
